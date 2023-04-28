@@ -1,6 +1,7 @@
 # improvement-proposal-template
 
 ---
+```
 sip: <to be assigned>
 title: <SIP title>
 network: <Ethereum | Optimism | Ethereum & Optimism>
@@ -14,6 +15,7 @@ discussions-to: <Create a new thread on https://research.synthetix.io and drop t
 proposal: <snapshot.org proposal link> (*optional)
 created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
 requires: <SIP number(s)> (*optional)
+```
 ---
 
 <!--You can leave these HTML comments in your merged SIP and delete the visible duplicate text guides, they will not appear and may be helpful to refer to if you edit it again. This is the suggested template for new SIPs. Note that an SIP number will be assigned by an editor. When opening a pull request to submit your SIP, please use an abbreviated title in the filename, `sip-draft_title_abbrev.md`. The title should be 44 characters or less.-->
