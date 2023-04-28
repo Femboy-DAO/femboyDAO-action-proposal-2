@@ -4,14 +4,14 @@
 ```
 sip: <to be assigned>
 title: <SIP title>
-network: <Ethereum | Optimism | Ethereum & Optimism>
+network: <Ethereum | Polygon | Ethereum & Polygon>
 status: <Draft>
 type: <Meta-Governance | Governance>
 author: <a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
 implementor: <a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
 release: (Release Name)
 implementation-date:
-discussions-to: <Create a new thread on https://research.synthetix.io and drop the link here>
+discussions-to: <Create a new thread on https://www.tally.xyz/gov/femboy-dao/proposals and https://snapshot.org/#/femboydao.eth and drop the link here>
 proposal: <snapshot.org proposal link> (*optional)
 created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
 requires: <SIP number(s)> (*optional)
@@ -64,9 +64,11 @@ This is where you explain the reasoning behind how you propose to solve the prob
 
 ### Technical Specification
 
-<!--The technical specification should outline the public API of the changes proposed. That is, changes to any of the interfaces Synthetix currently exposes or the creations of new ones.-->
+<!--The technical specification should outline the public Action Plan of the changes proposed.
+Include technical documentation if necessary. -->
 
-The technical specification should outline the public API of the changes proposed. That is, changes to any of the interfaces Synthetix currently exposes or the creations of new ones.
+The technical specification should outline the public Action Plan of the changes proposed.
+Include technical documentation if necessary. 
 
 ### Test Cases
 
@@ -83,3 +85,4 @@ Please list all values configurable via SCCP under this implementation.
 ## Copyright
 
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+shoutout to @synthetix team for the original Improvement Proposal Template
