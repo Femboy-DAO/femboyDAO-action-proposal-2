@@ -1,4 +1,5 @@
 # improvement-proposal-template
+
 ---
 sip: <to be assigned>
 title: <SIP title>
