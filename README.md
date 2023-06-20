@@ -11,7 +11,7 @@ author: <a list of the author's or authors' name(s) and/or username(s), or name(
 implementor: <a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)> Council Multisig
 release: (Release Name) FAP2
 implementation-date: to be determined
-proposal: <snapshot.org proposal link> 
+proposal: <snapshot.org proposal link> https://github.com/Femboy-DAO/femboyDAO-action-proposal-2/blob/main/README.md
 created: <date created on, in ISO 8601 (yyyy-mm-dd) format> 2023-06-20
 requires: <FAP number(s)>  n/a
 ```
